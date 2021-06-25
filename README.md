@@ -54,6 +54,7 @@ Nathan Njonge,
 * Git
 * Python
 * Panda
+* Tensor flow
 
 
 
